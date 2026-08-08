@@ -1,9 +1,9 @@
 # 🎓 Student Chatbot
 
-A simple student chatbot developed to answer user queries through an interactive web interface.
+A simple mini student chatbot developed to answer user queries through an interactive web interface.
 
 ## 🛠️ Tech Stack
-- Python
+- Python -Backend
 - HTML
 - CSS
 - JavaScript
